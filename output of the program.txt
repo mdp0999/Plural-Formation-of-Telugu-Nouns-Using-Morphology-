@@ -1,0 +1,123 @@
+Amzi! Prolog  Listener
+Amzi Prolog Listener 5.0.31 Windows
+Oct 20 2001 21:25:35
+Copyright (c) 1987-2000 Amzi! inc.  
+
+?- consult('C:\\Users\\eflu lab\\Desktop\\dp\\final.pro')
+yes
+?- go.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:1.
+ Enter a TELUGU noun which ends with the letter "A":-
+anna.
+THE PLURALS FORMATION OF TELUGU NOUN:annalu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:2.
+ Enter a TELUGU noun which ends with the letter "E":-
+katte.
+THE PLURALS FORMATION OF TELUGU NOUN::kattelu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:3.
+ Enter a NOUN ends with the letters "AM".
+addam.
+THE PLURALS FORMATION OF TELUGU NOUN:addaalu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:4.
+ Enter a NOUN ends with the letter "I":
+pandi.
+THE PLURALS FORMATION OF TELUGU NOUN:pandulu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:5.
+ Enter a NOUN ends with the letter "U":
+illu.
+THE PLURALS FORMATION OF TELUGU NOUN:illulu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:5.
+ Enter a NOUN ends with the letter "U":
+muddu.
+THE PLURALS FORMATION OF TELUGU NOUN:muddulu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:6.
+ Enter a NOUN ends with this letters mu:
+kanchamu.
+THE PLURALS FORMATION OF TELUGU NOUN:kanchallu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+yes.
+PROGRAM FOR PLURALS FORMATION OF TELUGU NOUNS
+If your NOUN ends with the letter "A" (like amma), enter 1:
+If your NOUN ends with the letter "E" like(pette,katte), enter 2:
+If your NOUN ends with the letter "AM" (like papam,shapam), enter 3:
+If your NOUN ends with the letter "I",(like rayi,pandi), enter 4:
+If your NOUN ends with the letter "U",(like raju,goovu), enter 5:
+If your NOUN ends with the letter "MU",(like varamu,penamu), enter 6:
+If your NOUN ends with the letter "udu"/olu/ili , enter 7:
+Please Enter your choice NUMBER:7.
+ Enter a NOUN ends with this letters udu"/olu/udu/ili:
+alludu.
+THE PLURALS FORMATION OF TELUGU NOUN:allulu.
+Do u want to enter one more TELUGU NOUN? (yes/no):
+no.
+ THANK YOU
+yes
+?- 
